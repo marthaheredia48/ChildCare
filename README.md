@@ -20,7 +20,7 @@ This app aims to contribute to public health efforts by helping parents stay on 
 - **Automated Reminders:** The app sends automated reminders based on age and vaccination dose timings, aligned with Mexico's official National Vaccination Card.
 - **Profile Management:** Parents can create and manage profiles for their children to track vaccination schedules.
 - **Symptom Log:** A feature that allows parents to track and log symptoms after each vaccination.
-- **QR Scanner:** A built-in scanner to allow parents to easily scan their children's vaccination card for quick reference.
+- **Scanner:** A built-in scanner to allow parents to easily scan their children's vaccination card for quick reference.
 - **Colorful and Intuitive Design:** The app features an interactive, smooth, and intuitive design that ensures a positive user experience.
 
 ## 📑 **How to Use**
